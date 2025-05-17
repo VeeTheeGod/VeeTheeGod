@@ -3,7 +3,7 @@
 🌍 From Thabong, Welkom, Free State, South Africa  
 🎓 Software Development Student @ Power Learn Project  
 📚 Self-learner | Open-source contributor | Tech for Good advocate  
-💡 Founder of [Bokamoso Foundation](https://bokamosofoundation.org) – Empowering communities through education, food, and digital innovation
+💡 Founder of an NPO called [Bokamoso Foundation](https://bokamosofoundation.org) – Empowering communities through education, food, and digital innovation
 
 ---
 
@@ -100,8 +100,8 @@ A self-imposed challenge to master full-stack development and advanced Django co
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/velile-mifi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/velilemifi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mifi_velile)  
 📬 Email: mifivelile@gmail.com 
 
 > *"Code for impact. Learn for growth. Lead with purpose."*
