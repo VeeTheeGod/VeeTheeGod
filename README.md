@@ -89,7 +89,7 @@ A self-imposed challenge to master full-stack development and advanced Django co
 
 ## 🖼️ GitHub Profile Snapshot
 
-![Velile Mifi's GitHub Screenshot](https://raw.githubusercontent.com/VelileMifi/VelileMifi/main/assets/profile-screenshot.png)
+![Velile Mifi's Profile Screenshot](MyProfileSnap.png)
 
 > 🖥️ Check out my portfolio: (https://veetheegod.github.io/web-page-2.0/)
 
